@@ -1,12 +1,12 @@
 {
   "drivers": [
-    { "id": 1, "fullname": "Imran Farooq", "latitude": 0, "longitude":0, "battery_level": 50, "timestamp": 0 }
+    { "id": 1, "fullname": "Imran Farooq", "latitude": 0, "longitude":0, "battery_level": 50, "timestamp": 1613467256 }
   ],
   "deliveries": [
     { "id": 1, "address": "delivery 1 address", "is_active": false, "latitude": 0, "longitude": 0, "customer_name": "imran farooq", "driver_id": 1, "timestamp": 1613467256, "special_instructions": "test instructions" },
-    { "id": 2, "address": "delivery 2 address", "is_active": false, "latitude": 0, "longitude": 0, "customer_name": "imran farooq", "driver_id": 1, "timestamp":000, "special_instructions": "test instructions" },
-    { "id": 3, "address": "delivery 3 address", "is_active": false, "latitude": 0, "longitude": 0, "customer_name": "imran farooq", "driver_id": 2, "timestamp":000, "special_instructions": "test instructions" },
-    { "id": 4, "address": "delivery 4 address", "is_active": false, "latitude": 0, "longitude": 0, "customer_name": "imran farooq", "driver_id": 2, "timestamp":000, "special_instructions": "test instructions" },
-    { "id": 5, "address": "delivery 5 address", "is_active": false, "latitude": 0, "longitude": 0, "customer_name": "imran farooq", "driver_id": 3, "timestamp":000, "special_instructions": "test instructions" }
+    { "id": 2, "address": "delivery 2 address", "is_active": false, "latitude": 0, "longitude": 0, "customer_name": "imran farooq", "driver_id": 1, "timestamp":1613467256, "special_instructions": "test instructions" },
+    { "id": 3, "address": "delivery 3 address", "is_active": false, "latitude": 0, "longitude": 0, "customer_name": "imran farooq", "driver_id": 2, "timestamp":1613467256, "special_instructions": "test instructions" },
+    { "id": 4, "address": "delivery 4 address", "is_active": false, "latitude": 0, "longitude": 0, "customer_name": "imran farooq", "driver_id": 2, "timestamp":1613467256, "special_instructions": "test instructions" },
+    { "id": 5, "address": "delivery 5 address", "is_active": false, "latitude": 0, "longitude": 0, "customer_name": "imran farooq", "driver_id": 3, "timestamp":1613467256, "special_instructions": "test instructions" }
   ]
 }
